@@ -493,11 +493,11 @@ footer p {
     }
 
     #kontak {
-        height: 70vh;
+        height: 85vh;
     }
 
     #produk {
-        height: 70vh;
+        height: 90vh;
     }
 }
 
@@ -547,11 +547,11 @@ footer p {
     }
 
     #kontak {
-        height: 70vh;
+        height: 85vh;
     }
 
     #produk {
-        height: 65vh;
+        height: 85vh;
         padding-top: 200px;
     }
 }
@@ -580,7 +580,7 @@ footer p {
 
     .produk-container {
         width: 70vw;
-        height: vh;
+        height: 75vh;
     }
 
     .produk {
