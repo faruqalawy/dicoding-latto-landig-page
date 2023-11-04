@@ -433,6 +433,20 @@ footer p {
     position: right;
 }
 
+.fotoku {
+    width: 25px;
+    border-radius: 999px;
+    -webkit-border-radius: 999px;
+    -moz-border-radius: 999px;
+    -ms-border-radius: 999px;
+    -o-border-radius: 999px;
+    border: 2px solid var(--pink);
+}
+
+.fotoku:hover {
+    border: 2px solid white;
+}
+
 @keyframes animate {
     0% {
         border-radius: 64% 36% 27% 73% / 55% 58% 42% 54%;
