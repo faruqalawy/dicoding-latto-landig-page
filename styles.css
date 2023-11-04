@@ -554,6 +554,10 @@ footer p {
         height: 85vh;
         padding-top: 200px;
     }
+
+    #beranda {
+        padding-top: 150px;
+    }
 }
 
 @media screen and (max-width: 468px) {
